@@ -1,4 +1,4 @@
-﻿namespace _207784125_318270378
+﻿namespace Employee_salaries
 {
     partial class Form1
     {
