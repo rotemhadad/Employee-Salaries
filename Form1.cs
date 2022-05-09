@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Text.RegularExpressions;
 
-namespace _207784125_318270378
+namespace Employee_salaries
 {
 
     public partial class Form1 : Form
